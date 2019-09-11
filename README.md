@@ -1,2 +1,2 @@
 # CS565600
-CS565600 Deep Learning
+NTHU CS565600 Deep Learning
