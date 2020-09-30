@@ -2,6 +2,14 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.jpg
+*.png
+*.zip
+*.csv
+*/checkpoints/*
+*/ckpts/*
+*/dataset/*
+*.xml
 
 # C extensions
 *.so
